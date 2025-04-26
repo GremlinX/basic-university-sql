@@ -1,8 +1,6 @@
-# Banco de Dados para Gestão Universitária
-(O desenvolvimento do projeto de banco de dados ainda não foi concluído! Peço gentilmente que aguarde até sua conclusão. No entanto, disponibilizarei um "spoiler" do projeto.)
+# 🎓 Banco de Dados para Gestão Universitária
 
-
-Este projeto consiste em um banco de dados relacional para a gestão acadêmica de uma universidade. 
+📚 **Foco:** Este projeto consiste em um banco de dados relacional para a gestão acadêmica de uma universidade. 
 Ele está voltado para fins educativos e serve como exemplo para estudantes de áreas relacionadas como: computação, administração e gestão de dados.
 Este documento apresenta explicações de forma simples e fácil de entender, até para quem não tem experiência na área.
 
@@ -106,9 +104,13 @@ Este banco de dados pode ser utilizado para:
 - Monitorar dependentes dos professores.
 
 ## 🚀 Tecnologias Utilizadas
-Utilizando apenas Microsfot SQL Server Management Studio:
+Utilizando apenas Microsoft SQL Server Management Studio:
 - **Banco de Dados Relacional (SQL)**
 - **Ferramentas de Modelagem**
+
+## IMAGENS
+![Modelo Relacional](https://github.com/user-attachments/assets/4cb03af1-9351-4ac1-a23f-ed4b78987213)
+
 
 # Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
